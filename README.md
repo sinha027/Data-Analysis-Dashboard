@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboard
+# Data-Analysis-Dashboard Using Excel
 I developed a comprehensive project in Excel, which involved creating multiple dashboards and tables for data analysis. The project encompassed several stages, such as data preprocessing, data cleaning, and data visualization.
 Here, I used only Microsoft Excel for this analysis.
 This project is divided into different sections that focus on various aspects of data analytics.
